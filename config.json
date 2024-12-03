@@ -1,0 +1,8 @@
+{
+    "URL": "https://www.kaggle.com/datasets/oleksiimartusiuk/e-commerce-data-shein/download",
+    "PARAMS": {
+        "header": 0,
+        "index_col": "product_id",
+        "parse_dates": ["date"]
+    }
+}
