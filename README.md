@@ -17,7 +17,7 @@ To set up and run the ETL pipeline, follow these steps:
    Run: `pip install -r requirements.txt`
 
 3. **Run the ETL Pipeline**  
-   Make sure the virtual environment is still activated. To execute the `etl_pipeline.py` script, Run:  `python etl_pipeline.py`
+   Make sure the virtual environment is still activated. To execute the `etl_pipeline.py` script, Run:  `python etl_pipeline.py manual`
 
 4. **Deactivate the Virtual Environment**  
    After running the script, deactivate the virtual environment by running:  
