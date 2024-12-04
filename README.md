@@ -29,3 +29,5 @@ Additional Notes:
   `pip freeze > requirements.txt`  
 - If you encounter dependency issues, install missing packages manually using:  
   `pip install <package_name>`  
+
+Link for ERD: https://drawsql.app/teams/try1-2/diagrams/dirty-e-commerce
